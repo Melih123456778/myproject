@@ -6,7 +6,9 @@
 
 <img width="960" alt="Ekran görüntüsü_20230202_172223" src="https://user-images.githubusercontent.com/97700804/216351545-2674b48d-6ce9-4b8d-a325-1e94a0619a73.png">
 
+
 #MOBİLE SCREEN
+
 <img width="372" alt="Ekran görüntüsü_20230202_172408" src="https://user-images.githubusercontent.com/97700804/216351571-85936dbc-c923-47b1-9e44-3957646d7a51.png">
 
 
